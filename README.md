@@ -35,4 +35,4 @@ You can download the latest version of the app directly from this repository:
 *(Add your screenshots here)*
 
 ---
-Developed with ❤️ by Viraj
+Developed with by Viraj
