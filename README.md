@@ -30,9 +30,4 @@ You can download the latest version of the app directly from this repository:
 3. Enable "Install from Unknown Sources" in your settings.
 4. Install and start sharing rides!
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
----
 Developed with by Viraj
