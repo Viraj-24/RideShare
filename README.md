@@ -20,6 +20,15 @@ RideShare is a modern, enterprise-grade Android application designed to facilita
 - **Auth**: Firebase Authentication
 - **Architecture**: Material Design 3
 
+## 🔄 Application Flow
+
+1. User registers/login
+2. User selects Rider or Passenger
+3. User enters source and destination
+4. RideShare searches for matching users
+5. Matching results are displayed
+6. Users can view profiles and connect
+
 ## 📲 Installation
 
 You can download the latest version of the app directly from this repository:
